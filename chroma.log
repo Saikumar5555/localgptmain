@@ -1,0 +1,1 @@
+[33mWARNING[0m:  [17-07-2024 14:13:39] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
